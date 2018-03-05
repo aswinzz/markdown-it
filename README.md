@@ -14,11 +14,6 @@ $ sudo npm start
 
 
 
-You can also:
-  - Download the App for linux from this [link]()
-  - Download the App for Windows from this [link]()
-  - You Can Have Deb file from this [link]()
-
 # Screens
 Dark Theme:
 ---------
